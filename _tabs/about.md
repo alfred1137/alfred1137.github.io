@@ -10,4 +10,4 @@ Welcome to my blog! My name is Alfred and I'm a Corporate Sustainability Profess
 
 This is a space where I write about topics that interest me, including technology, gaming, AI, and other things I'm currently spending my time on.
 
-Feel free to connect with me on [Twitter](https://twitter.com/alfred1137) or [GitHub](https://github.com/alfred1137). 
+Feel free to connect with me on [𝕏](https://x.com/alfred1137) or [GitHub](https://github.com/alfred1137).
