@@ -3,7 +3,7 @@
 - type: github
   icon: "fab fa-github"
 
-- type: Twitter
+- type: twitter
   icon: "fa-brands fa-x-twitter"
 
 - type: email
