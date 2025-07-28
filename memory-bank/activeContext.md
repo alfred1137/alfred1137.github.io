@@ -9,10 +9,11 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - The external link `www.leytonorient.com` has been corrected to include the `https://` protocol.
 - The `html-proofer` errors related to the image path and the external link have been resolved.
 - The file `_posts/2025-03-17-LOFC-CM-CH01.md` has been migrated with the correct title and description metadata.
+- The file `_posts/2025-03-18-LOFC-CM-CH02.md` has been migrated with the correct title, description metadata, and assets.
 - Memory bank files (`progress.md`, `activeContext.md`) have been updated to reflect the latest status and learnings.
 
 ## Next Steps
-1.  **Process Blog Posts (Iterative):** For each subsequent chapter markdown file (e.g., `Chapter-02-Progress-&-Redemption.md`) in `migration_temp/`:
+1.  **Process Blog Posts (Iterative):** For each subsequent chapter markdown file (e.g., `Chapter-03-Winter-Transfer.md`) in `migration_temp/`:
     *   Extract the chapter number and title.
     *   Migrate the markdown content to `_posts/YYYY-MM-DD-LOFC-CM-CH<chapter_number>`.
     *   Organize assets from `migration_temp/Resources/` under `assets/LOFC-CM-CH<chapter_number>/`.
@@ -34,7 +35,7 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - **Standardized Categories and Tags for Migrated Posts:** For all posts migrated as part of this exercise, the following categories and tags will be used:
     - Categories: `["Gaming", "EA FC 2025", "LOFC-CM-2025"]`
     - Tags: `["Leyton Orient", "Career Mode", "LOFC-CM-2025"]`
-- **Standardized Title Format for Chapters:** For all blog posts migrated as part of this exercise, the `title` metadata should follow the convention: `LOFC-CM-CH<chapter_number>: <Original Chapter Title>`. `:` is strictly forbidden here.
+- **Standardized Title Format for Chapters:** For all blog posts migrated as part of this exercise, the `title` metadata should follow the convention: `LOFC-CM-CH<chapter_number> | <Original Chapter Title>`. `:` is strictly forbidden here.
 - **Standardized Description for Posts:** For all blog posts migrated as part of this exercise, the `description` metadata should be generated as a concise summary of the blog content. `:` is strictly forbidden here.
 
 ## Learnings and Project Insights
@@ -46,5 +47,5 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
     3.  Clarifying discrepancies with the user (e.g., file paths).
     4.  Providing the user with corrected content or instructions for them to apply.
     5.  Asking the user to confirm the changes and re-run checks.
-- **Current State:** Chapter 00 and Chapter 01 are migrated, deployed, and all identified `html-proofer` errors are resolved.
-- **Next Steps:** Proceed with migrating subsequent blog posts (Step 2 of the plan), starting with Chapter 02.
+- **Current State:** Chapter 00, Chapter 01, and Chapter 02 are migrated, deployed, and all identified `html-proofer` errors are resolved.
+- **Next Steps:** Proceed with migrating subsequent blog posts (Step 2 of the plan), starting with Chapter 03.

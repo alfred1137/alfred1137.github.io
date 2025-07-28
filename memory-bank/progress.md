@@ -8,7 +8,6 @@
 - **Prepare Source Data:**
     - A secure, separate copy of the source repository (`D:\Git\LOFC-CM-202503.wiki`) is available at `migration_temp`. This copy will be kept isolated from the project files of the new blog.
     - Gather blog post files, their content, creation dates, assets from the `/Resource` folder, and the `/.clinerules`/`/memory-bank` content from this copied repository.
-    - all posts (in .md) and folders created under this migration should be prefixed with "LOFC-CM-".
 - **Execute Migration (Step-by-Step):**
     - **Step 1: Process Chapter 00 (Home Page):**
         - Merge `migration_temp/Club-Profile.md` and `migration_temp/Custom-Rules.md` into `migration_temp/Home.md`.
@@ -48,6 +47,7 @@
 - The banner image has been correctly placed at `assets/img/LOFC-CM-CH00/Banner.png`.
 - `html-proofer` errors related to the image path and the external link have been resolved.
 - Chapter 01 migration is complete.
+- Chapter 02 migration is complete.
 - Ready to proceed with Step 2: Process Blog Posts (Iterative).
 
 ## Known Issues
