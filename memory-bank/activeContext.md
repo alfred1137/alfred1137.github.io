@@ -1,7 +1,7 @@
 # Active Context
 
 ## Current Work
-Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank. Chapter 00 and Chapter 01 have been successfully migrated, deployed, and all identified `html-proofer` errors have been resolved.
+Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank. Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, and Chapter 06 have been successfully migrated, deployed, and all identified `html-proofer` errors have been resolved.
 
 ## Recent Changes
 - The file `_posts/2025-03-06-LOFC-CM-CH00.md` has been confirmed as the correct file for Chapter 00.
@@ -12,7 +12,7 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - Memory bank files (`progress.md`, `activeContext.md`) have been updated to reflect the latest status and learnings.
 
 ## Next Steps
-1.  **Process Blog Posts (Iterative):** For each subsequent chapter markdown file (e.g., `Chapter-03-Winter-Transfer.md`) in `migration_temp/`:
+1.  **Process Blog Posts (Iterative):** For each subsequent chapter markdown file (e.g., `Chapter-07.md`) in `migration_temp/`:
     *   Extract the chapter number and title.
     *   Migrate the markdown content to `_posts/YYYY-MM-DD-LOFC-CM-CH<chapter_number>`.
     *   Organize assets from `migration_temp/Resources/` under `assets/LOFC-CM-CH<chapter_number>/`.
@@ -50,4 +50,4 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - **Current State:** Chapter 00, Chapter 01, and Chapter 02 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
 - **Lesson Learned:** Ensure all images within post content have descriptive `alt` attributes for accessibility and to prevent deployment errors, even if not explicitly detailed in all theme guides.
 - **Next Steps:** Proceed with migrating subsequent blog posts (Step 2 of the plan), starting with Chapter 06.
-- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, and Chapter 05 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
+- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, and Chapter 06 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
