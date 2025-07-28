@@ -1,7 +1,7 @@
 # Active Context
 
 ## Current Work
-Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank. Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, and Chapter 06 have been successfully migrated, deployed, and all identified `html-proofer` errors have been resolved.
+Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank. Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, and Chapter 07 have been successfully migrated, deployed, and all identified `html-proofer` errors have been resolved.
 
 ## Recent Changes
 - The file `_posts/2025-03-06-LOFC-CM-CH00.md` has been confirmed as the correct file for Chapter 00.
@@ -9,6 +9,7 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - The external link `www.leytonorient.com` has been corrected to include the `https://` protocol.
 
 - The file `_posts/2025-04-03-LOFC-CM-CH05.md` has been migrated with the correct title, description metadata, and assets.
+- The file `_posts/2025-04-08-LOFC-CM-CH07.md` has been migrated with the correct title, description metadata, and assets.
 - Memory bank files (`progress.md`, `activeContext.md`) have been updated to reflect the latest status and learnings.
 
 ## Next Steps
@@ -23,7 +24,6 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 
 ## Active Decisions and Considerations
 - **Blog Post Filenames:** Source files include chapter titles (e.g., `Chapter-02-Progress-&-Redemption.md`). The correct Jekyll format `YYYY-MM-DD-TITLE.md` must be strictly followed. The prefix `LOFC-CM-` should not be part of the filename itself but rather handled within the content or title if necessary. The corrected filename for Chapter 00 is `_posts/2025-03-06-LOFC-CM-CH00.md`.
-- **Date Assignment:** Migrated posts will use the file creation date of the original source file.
 - **Asset Handling:** Assets will be organized into post-specific folders within `assets/img/LOFC-CM-CH00/` for Chapter 00, and `assets/img/LOFC-CM-<chapter_number>/` for subsequent chapters.
 - **Source Project Files:** `clinerules` and `memory-bank` from the source repository will be migrated, with a note to review for outdated instructions conflicting with the current blog's structure.
 - **Source Repository Access:** Terminal tools will be used in Act Mode to access the source repository for file listing, content retrieval, and metadata.
@@ -37,6 +37,7 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - **Standardized Title Format for Chapters:** For all blog posts migrated as part of this exercise, the `title` metadata should follow the convention: `LOFC-CM-CH<chapter_number> | <Original Chapter Title>`. `:` is strictly forbidden here.
 - **Standardized Description for Posts:** For all blog posts migrated as part of this exercise, the `description` metadata should be generated as a concise summary of the blog content. `:` is strictly forbidden here.
 - **Title Format Rule:** Colons (`:`) are not allowed in post titles. Use hyphens (`-`) or pipes (`|`) as separators instead.
+- Do not include `image` in metadata.
 
 ## Learnings and Project Insights
 - **File Naming:** The correct Jekyll filename format `YYYY-MM-DD-TITLE.md` is crucial. The correct path for Chapter 00's image is `assets/img/LOFC-CM-CH00/Banner.png`, not `assets/img/LOFC-CM-00/Banner.png` as initially suggested by an `html-proofer` error.
