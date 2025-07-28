@@ -22,7 +22,7 @@ Front matter is essential metadata at the top of each post file, enclosed in `--
 #### 1.2.1 Basic Structure
 ```yaml
 ---
-title: TITLE
+title: TITLE # Colons are not allowed in the title.
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
