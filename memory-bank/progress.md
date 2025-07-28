@@ -17,7 +17,7 @@
     - **Step 2: Process Blog Posts (Iterative):**
         - For each subsequent chapter markdown file (e.g., `Chapter-01-Down-the-Brisbane-Road.md`) in `migration_temp/`:
             - Extract the chapter number (e.g., "01" from "Chapter-01-").
-            - Extract the chapter title (e.g., "Down-the-Brisbane-Road" from "Chapter-01-Down-the-Brisbane-Road.md").
+            - Extract the chapter title (e.g., "Down-the-Brisbane-Road" from "Chapter-01-Down-the-Brisbane-Road.md"). *Do not include it in the new file name*
             - Use the following to date the chapters being migrated:
                 - CH01: 2025-03-17 (YYYY-MM-DD)
                 - CH02: 2025-03-18
@@ -56,8 +56,9 @@
 - Chapter 08 migration is complete.
 - Chapter 09 migration is complete.
 - Chapter 10 migration is complete.
+- Chapter 11 migration is complete.
 
-- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, Chapter 07, Chapter 08, Chapter 09, and Chapter 10 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
+- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, Chapter 07, Chapter 08, Chapter 09, Chapter 10, and Chapter 11 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
 - **Lesson Learned:** Ensure all images within post content have descriptive `alt` attributes for accessibility and to prevent deployment errors, even if not explicitly detailed in all theme guides.
 - **Title Format Rule:** Colons (`:`) are not allowed in post titles. Use hyphens (`-`) or pipes (`|`) as separators instead.
 
