@@ -18,19 +18,7 @@
         - For each subsequent chapter markdown file (e.g., `Chapter-01-Down-the-Brisbane-Road.md`) in `migration_temp/`:
             - Extract the chapter number (e.g., "01" from "Chapter-01-").
             - Extract the chapter title (e.g., "Down-the-Brisbane-Road" from "Chapter-01-Down-the-Brisbane-Road.md"). *Do not include it in the new file name*
-            - Use the following to date the chapters being migrated:
-                - CH01: 2025-03-17 (YYYY-MM-DD)
-                - CH02: 2025-03-18
-                - CH03: 2025-03-22
-                - CH04: 2025-03-23
-                - CH05: 2025-04-03
-                - CH06: 2025-04-07
-                - CH07: 2025-04-08
-                - CH08: 2025-04-14
-                - CH09: 2025-06-13
-                - CH10: 2025-06-18
-                - CH11: 2025-06-23
-                - CH12: 2025-07-26
+
             - Migrate the markdown content to `_posts/YYYY-MM-DD-LOFC-CM-CH<chapter_number>`.
             - Assets from `migration_temp/Resources/` will be organized under `assets/LOFC-CM-CH<chapter_number>/`.
             - *Await user acceptance for each chapter before proceeding to the next.*
@@ -57,8 +45,9 @@
 - Chapter 09 migration is complete.
 - Chapter 10 migration is complete.
 - Chapter 11 migration is complete.
+- Chapter 12 migration is complete.
 
-- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, Chapter 07, Chapter 08, Chapter 09, Chapter 10, and Chapter 11 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
+- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, Chapter 07, Chapter 08, Chapter 09, Chapter 10, Chapter 11, and Chapter 12 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
 - **Lesson Learned:** Ensure all images within post content have descriptive `alt` attributes for accessibility and to prevent deployment errors, even if not explicitly detailed in all theme guides.
 - **Title Format Rule:** Colons (`:`) are not allowed in post titles. Use hyphens (`-`) or pipes (`|`) as separators instead.
 
