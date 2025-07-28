@@ -1,0 +1,112 @@
+# Chapter 9: The Championship Grind
+
+## Introduction
+
+It's been a while since my last blog post. Between EA's game-breaking updates, mod issues, and real-life commitments, maintaining this blog has been challenging. However, I've continued to play the game on and off, and we've now reached the end of the 2025/2026 season.
+
+Let's dive into how we fared in our first Championship campaign.
+
+## League Performance
+
+The burning question: Did we survive? The answer is a resounding yes!
+
+Not only did we survive, but we secured a playoff position, with the battle lasting until the penultimate week of the season.
+
+Our journey through the Championship was nothing short of a rollercoaster ride, filled with dramatic comebacks, heart-stopping moments, and valuable lessons learned.
+
+![S2LeagueTable](https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/CH09S2Wrap/S2LeagueTable.png)
+
+### Playoff Heartbreak
+
+Unfortunately, our playoff journey ended in disappointment. We faced **Sheffield United** in the semi-finals, suffering a 2-0 defeat in the first leg and a 4-0 loss in the second leg.
+
+**Sheffield United** went on to win the playoffs and secure promotion to the Premier League. The playoff matches exposed some tactical vulnerabilities in our system, particularly in dealing with their high-pressing game and quick transitions.
+
+![S2Playoff](https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/CH09S2Wrap/S2Playoff.png)
+
+Despite the playoff exit, we should consider this a successful season. The Championship is an incredibly tough league, and it was indeed a grind. There were several areas within the squad that needed improving before making the step up.
+
+Another season in the Championship will be perfect preparation for our Premier League charge next season. The experience gained from competing against seasoned Championship sides has been invaluable for our young squad.
+
+## Cup Adventures
+
+### Carabao Cup
+
+We reached Round 3 of the Carabao Cup, where we faced **Newcastle United** at St James' Park. Despite putting up a good fight, we succumbed to a 5-2 defeat.
+
+The match was closer than the scoreline suggests, with *Josh Keeley* making several outstanding saves before fatigue set in during the final 20 minutes.
+
+The cup run gave valuable minutes to some of our fringe players, with *Peyton Miller* and *Brandon Cooper* particularly impressing.
+
+![CarabaoLost](https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/CH09S2Wrap/CarabaoLost.png)
+
+### FA Cup
+
+Our FA Cup journey was particularly exciting. We made it to Round 6, just one step away from the semi-finals.
+
+Our opponents? None other than **Woolwich Arsenal**.
+
+While we gave it our best shot, it wasn't enough, and we were knocked out with a 3-0 defeat.
+
+<div align="center">
+  <img src="https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/CH09S2Wrap/FACup-vWoolwich1.png" width="400"> <img src="https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/CH09S2Wrap/FACup-vWoolwich2.png" width="400"></div>
+
+The run included memorable victories over **Preston** and **Derby County** and **Wrexham**, with *Dele Alli* scoring a spectacular winner at the Racecourse Ground of *Ryan Reynolds*'s team.
+
+The experience of playing against Premier League opposition was invaluable for our development.
+
+## Transfer Business
+
+Reflecting on our season, we perhaps should have been more active in the winter transfer window.
+
+It was a quiet period for us, partly due to limited funds and our belief that the squad was decent enough.
+
+However, we did address one major weak spot - the midfield. Our lack of depth in central areas became apparent during the busy festive period, where we dropped crucial points due to fatigue and injuries.
+
+### Key Signing: Marko Stamenić
+
+We secured the services of *Marko Stamenić* for £10.5 million.
+
+The New Zealand international, who was playing for **Olympiacos** on loan from **Nottingham Forest**, proved to be an excellent addition. He played a crucial role during the second half of the season, bringing much-needed energy and creativity to our midfield.
+
+His ability to break lines with his passing and contribute defensively made him an instant fan favorite.
+
+## Looking Ahead
+
+While we fell short of promotion, this season has been a valuable learning experience.
+
+The Championship has tested us in ways we hadn't experienced before, and the squad has grown stronger for it.
+
+With another season to prepare and strengthen, we're confident about our chances of making it to the Premier League next year.
+
+The key areas for improvement are clear: we need more depth in central midfield, better defensive organization, and more clinical finishing in crucial matches.
+
+The foundation is there, and with the right additions in the summer, we believe we can mount a serious promotion challenge next season.
+
+The journey continues, and we're ready for the next chapter in our story.
+
+## Season Statistics
+
+### Top Performers
+
+#### Goals
+
+- *Jay Stansfield*: 21 goals - The young striker has been a revelation, adapting brilliantly to the Championship's physical demands
+- *Dele Alli*: 11 goals - The experienced midfielder has rediscovered his form, contributing both goals and assists
+- *Mikey Moore*: 8 goals - The Tottenham loanee has shown flashes of brilliance, particularly in cup competitions
+- *Will Lankshear*: 7 goals - Despite limited minutes, the young forward has shown great promise
+- *Jamie Donley*: 7 goals - Another loanee who has impressed with his technical ability and work rate
+
+#### Team Statistics
+
+![Leyton_Orient_TeamStats](https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/CH09S2Wrap/Leyton_Orient_CM_1.png)
+
+### Goalkeeper Performance
+
+*Josh Keeley* maintained 19 clean sheets while conceding 44 goals, while *Jamie Norman* kept 8 clean sheets and conceded 21 goals.
+
+Both keepers have shown great potential, with *Keeley* particularly impressing in big matches. His distribution and command of the area have improved significantly throughout the season.
+
+### Transfer Record
+
+![Leyton_Orient_CM_2](https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/CH09S2Wrap/Leyton_Orient_CM_2.png)

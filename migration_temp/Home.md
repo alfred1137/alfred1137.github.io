@@ -1,0 +1,33 @@
+# Leyton Orient EA FC25 Career Mode
+
+Last updated: `20250323 17:20 (UTC+8)`
+
+![banner](https://github.com/alfred1137/LOFC-CM-202503/wiki/Resources/Banner.png)
+
+## Introduction
+
+Hello football fans! I'm excited to kick off my journey as **Filippo Inzaghi**, the new Italian manager of **Leyton Orient** in EA FC 2025 Career Mode.
+
+In this alternate reality, an *anonymous* Singaporean Investment Company made a move to take over Leyton Orient in summer of 2024. They have injected £10M worth of fresh fund to elevate the squad, and have chosen me to take up a challenge in the lower leagues of English Football. Forget the glamour of the Champions League; I'm here to build a dynasty in the heart of East London!
+
+## Why Leyton Orient?
+
+![Image 24: Leyton Orient](https://tmssl.akamaized.net//images/wappen/head/1150.png?lm=1485645647)
+
+There's something special about taking a club with a rich history and guiding them to new heights. Leyton Orient, often referred to as *the O's* by their fan base, has a passionate fanbase and plays in Brisbane Road stadium that is located right in the heart of the neighbourhood. The challenge of navigating the complexities of League Two and building a squad capable of competing for promotion is a truly exciting prospect.
+
+Beyond the challenge, Leyton Orient is also closely associated with the club I actually follow IRL. Tottenham Hotspur.  The two teams have long historic friendship. The Spurs Men's team support the O's regularly by sending hot prospect on loan to Brisbane Road; the Spurs Women has even made Brisbane Road their alternative home ground for the Women's Super League.
+
+It all makes Leyton Orient felt like the perfect fit for my new save.  **COYS and Come On You O's!**
+
+## Why Filippo Inzaghi?
+
+![Image: Filippo Inzaghi](https://img.a.transfermarkt.technology/portrait/header/25149-1586856473.jpg?lm=1)
+
+*Filippo Inzaghi* was my clear choice to embody for this save. As a legendary AC Milan striker known for his clinical finishing and intelligent movement, he left an indelible mark on football with 313 goals in his career.
+
+While his managerial journey in Italy has had ups and downs, he is enjoying great success in Serie B. He's proven himself as a promotion specialist with Venezia and Benevento. That expertise in getting teams promoted feels perfect for our ambitions at Leyton Orient.
+
+Sure, managing Leyton Orient might seem an unexpected move for Inzaghi, especially when Pisa - the team he is managing IRL - is on track to earning a promotion to Italian top flight (as of writing on 8 March 2025). **But** in this alternate reality, Pisa decided to part ways with him by the summer of 2024. This is when the O's new ambition caught Inzaghi's attention!
+
+Leyton Orient's new investor has promised to back Inzaghi with the necessary fund to bring quality players and exciting prospect to his team. Can he make his mark in English football? Let's find out!

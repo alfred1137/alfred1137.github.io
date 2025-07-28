@@ -1,0 +1,96 @@
+---
+title: Home Page
+date: 2025-07-28 11:28:00 +0800
+categories: ["Gaming", "EA FC 2025"]
+tags: ["Leyton Orient", "Career Mode", "LOFC-CM-2025"]
+description: Welcome to the Leyton Orient EA FC 2025 Career Mode blog, chronicling the journey of Filippo Inzaghi as he builds a dynasty in East London.
+image:
+  path: /assets/img/LOFC-CM-00/Banner.png
+  alt: Banner
+pin: true
+---
+
+# Leyton Orient EA FC25 Career Mode
+
+Last updated: `20250323 17:20 (UTC+8)`
+
+![banner](/assets/img/LOFC-CM-00/Banner.png)
+
+## Introduction
+
+Hello football fans! I'm excited to kick off my journey as **Filippo Inzaghi**, the new Italian manager of **Leyton Orient** in EA FC 2025 Career Mode.
+
+In this alternate reality, an *anonymous* Singaporean Investment Company made a move to take over Leyton Orient in summer of 2024. They have injected £10M worth of fresh fund to elevate the squad, and have chosen me to take up a challenge in the lower leagues of English Football. Forget the glamour of the Champions League; I'm here to build a dynasty in the heart of East London!
+
+## Why Leyton Orient?
+
+![Image 24: Leyton Orient](https://tmssl.akamaized.net//images/wappen/head/1150.png?lm=1485645647)
+
+There's something special about taking a club with a rich history and guiding them to new heights. Leyton Orient, often referred to as *the O's* by their fan base, has a passionate fanbase and plays in Brisbane Road stadium that is located right in the heart of the neighbourhood. The challenge of navigating the complexities of League Two and building a squad capable of competing for promotion is a truly exciting prospect.
+
+Beyond the challenge, Leyton Orient is also closely associated with the club I actually follow IRL. Tottenham Hotspur. The two teams have long historic friendship. The Spurs Men's team support the O's regularly by sending hot prospect on loan to Brisbane Road; the Spurs Women has even made Brisbane Road their alternative home ground for the Women's Super League.
+
+It all makes Leyton Orient felt like the perfect fit for my new save. **COYS and Come On You O's!**
+
+## Why Filippo Inzaghi?
+
+![Image: Filippo Inzaghi](https://img.a.transfermarkt.technology/portrait/header/25149-1586856473.jpg?lm=1)
+
+*Filippo Inzaghi* was my clear choice to embody for this save. As a legendary AC Milan striker known for his clinical finishing and intelligent movement, he left an indelible mark on football with 313 goals in his career.
+
+While his managerial journey in Italy has had ups and downs, he is enjoying great success in Serie B. He's proven himself as a promotion specialist with Venezia and Benevento. That expertise in getting teams promoted feels perfect for our ambitions at Leyton Orient.
+
+Sure, managing Leyton Orient might seem an unexpected move for Inzaghi, especially when Pisa - the team he is managing IRL - is on track to earning a promotion to Italian top flight (as of writing on 8 March 2025). **But** in this alternate reality, Pisa decided to part ways with him by the summer of 2024. This is when the O's new ambition caught Inzaghi's attention!
+
+Leyton Orient's new investor has promised to back Inzaghi with the necessary fund to bring quality players and exciting prospect to his team. Can he make his mark in English football? Let's find out!
+
+## Club Profile
+
+![Image 24: Leyton Orient](https://tmssl.akamaized.net//images/wappen/head/1150.png?lm=1485645647)
+
+*   **League:** EFL Championship
+*   **League Level:** Second Tier
+*   **Founded:** Jan 1, 1881
+*   **Nickname:** The O's
+*   **Manager:** Filippo Inzaghi
+*   **Address:** Brisbane Road, E10 5NF London, England
+*   **Website:** [www.leytonorient.com](www.leytonorient.com)
+
+### Stadium
+
+*   **Stadium Name:** Brisbane Road
+*   **Capacity:** 9,271 Seats
+
+### Tactics (Summary)
+
+Our primary formation is a **4-2-3-1**, focusing on an Advanced Forward, Inside Forwards on the wings, and a Shadow Striker in the CAM role. Midfield stability comes from a Deep Lying Playmaker and a Holding Midfielder. Fullbacks provide width, with situational attacking wingbacks.
+
+### Squad Overview (Summary)
+
+As of `02 Nov 2025`, our squad has a total market value of **£84.275M** with 29 players and an average age of 23.45. We have 6 foreigners and 4 national team players. The average overall rating is 67.41. Our current top transfer is **Alexis Vega** for £13.5M.
+
+## Custom Game Rules
+
+These custom rules are introduced to enhance immersion and balance the gameplay, setting the scenario in an alternate reality starting from summer 2024.
+
+### Starting Fund
+
+In the summer of 2024, an anonymous Singaporean Investment Company took over Leyton Orient, injecting **£10M** of fresh funds to elevate the squad.
+
+### House Transfer Rules
+
+Introduced in January 2025 to rebalance the game, these rules limit player acquisitions:
+
+1.  Player ratings must be below **74** at the time of signing.
+2.  Prioritize a more **diverse age profile**.
+3.  Give priority to players from the **British Isles** or the **Commonwealth**.
+
+### Squad Registration Rules
+
+Inspired by European leagues, these rules promote local talent and restrict excessive spending:
+
+1.  **Homegrown Players (8 or more):**
+    *   **Club-Trained Players (2 or more):** Developed within Leyton Orient's youth academy (min. 3 years before age 21).
+    *   **Association-Trained Players (6 or more):** Developed at English or Welsh FA-affiliated clubs (min. 3 years before age 21).
+2.  **Foreign Players (5 or less):** A maximum of 5 foreign players are allowed.
+3.  **U-21 Players (no limit):** Unlimited U-21 players are allowed, encouraging youth development.

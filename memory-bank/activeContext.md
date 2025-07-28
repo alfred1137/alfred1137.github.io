@@ -1,41 +1,27 @@
 # Active Context
 
-## 1. Current Work Focus
+## Current Work
+Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank.
 
-The current focus is on preparing the blog's groundwork before starting to upload blog posts. This involves:
-- Establishing the Memory Bank for effective collaboration.
-- Cleaning up the default template files and content.
-- Customizing the core configuration (`_config.yml`) for the user's blog.
-- Setting up initial data files and a placeholder post.
+## Recent Changes
+- Updated understanding of how to access the source repository: terminal tools can be used in Act Mode.
+- Memory bank files (`activeContext.md`, `progress.md`) have been updated to reflect the latest plan and status.
 
-## 2. Recent Changes
+## Next Steps
+1.  Await user confirmation to switch to Act Mode to begin the migration process.
 
-- **Content Creation Guide Added:** Created `memory-bank/content-creation-guide.md` to document the process of writing new posts, including front matter, media handling, and advanced formatting.
-- **Design Guidelines Updated:** Updated `memory--bank/design-guidelines.md` with a comprehensive guide to all typography, formatting, and rich content options available in the theme.
-- **Memory Bank Established:** All core Memory Bank files have been created.
-- **Initial Configuration & Content Groundwork:**
-    - Removed placeholder file from `_posts/`.
-    - Updated `README.md` with project-specific information.
-    - Personalized `_config.yml` with blog title, tagline, description, Twitter, and email.
-    - Updated `_data/contact.yml` to include LinkedIn and Stack Overflow links.
-    - Updated `_data/share.yml` to include LinkedIn and Reddit sharing options.
-    - Updated `_tabs/about.md` with personalized information and social links.
-    - Created a placeholder first blog post: `_posts/2025-07-27-first-blog-post.md`.
-- **Workflow Clarification:** The development and deployment workflow has been clarified. All changes will be committed directly and deployed via GitHub Actions. The Memory Bank (`techContext.md`, `README.md`) has been updated to reflect this.
+## Active Decisions and Considerations
+- **Blog Post Filenames:** Source files include chapter titles (e.g., `Chapter-02-Progress-&-Redemption.md`).
+- **Date Assignment:** Migrated posts will use the file creation date of the original source file.
+- **Asset Handling:** Assets will be organized into post-specific folders within `assets/posts/<post-slug>/`.
+- **Source Project Files:** `clinerules` and `memory-bank` from the source repository will be migrated, with a note to review for outdated instructions conflicting with the current blog's structure.
+- **Source Repository Access:** Terminal tools will be used in Act Mode to access the source repository for file listing, content retrieval, and metadata.
 
-## 3. Next Steps
+## Important Patterns and Preferences
+- Adherence to Jekyll blog structure (`_posts/`, `assets/`).
+- Preference for organized asset management per blog post.
 
-The initial project setup and content groundwork phase is largely complete. The remaining steps for groundwork are:
-1.  **Customize Assets:** Replace the site favicon (if not already done).
-2.  **Rewrite README:** Rewrite the `README.md` to describe the personal blog project, not the theme template.
-3.  **Begin Content Creation:** Start creating actual blog posts.
-
-## 4. Important Patterns & Preferences
-
-- **Memory Bank First:** All significant changes or new discoveries about the project should be documented in the Memory Bank to ensure continuity.
-- **Systematic Approach:** Changes should be made methodically, starting with configuration, then content, then assets.
-
-## 4. Important Patterns & Preferences
-
-- **Memory Bank First:** All significant changes or new discoveries about the project should be documented in the Memory Bank to ensure continuity.
-- **Systematic Approach:** Changes should be made methodically, starting with configuration, then content, then assets.
+## Learnings and Project Insights
+- Direct access to external file systems is not possible; user must provide file contents and metadata if terminal tools are insufficient or unavailable.
+- Terminal tools can be leveraged in Act Mode to interact with the source repository.
+- Careful handling of `clinerules` and `memory-bank` is required to avoid conflicts.
