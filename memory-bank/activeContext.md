@@ -1,7 +1,7 @@
 # Active Context
 
 ## Current Work
-Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank. Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, and Chapter 07 have been successfully migrated, deployed, and all identified `html-proofer` errors have been resolved.
+Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank. Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, Chapter 07, and Chapter 08 have been successfully migrated, deployed, and all identified `html-proofer` errors have been resolved.
 
 ## Recent Changes
 - The file `_posts/2025-03-06-LOFC-CM-CH00.md` has been confirmed as the correct file for Chapter 00.
@@ -13,7 +13,7 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - Memory bank files (`progress.md`, `activeContext.md`) have been updated to reflect the latest status and learnings.
 
 ## Next Steps
-1.  **Process Blog Posts (Iterative):** For each subsequent chapter markdown file (e.g., `Chapter-07.md`) in `migration_temp/`:
+1.  **Process Blog Posts (Iterative):** For each subsequent chapter markdown file (e.g., `Chapter-08.md`) in `migration_temp/`:
     *   Extract the chapter number and title.
     *   Migrate the markdown content to `_posts/YYYY-MM-DD-LOFC-CM-CH<chapter_number>`.
     *   Organize assets from `migration_temp/Resources/` under `assets/LOFC-CM-CH<chapter_number>/`.
