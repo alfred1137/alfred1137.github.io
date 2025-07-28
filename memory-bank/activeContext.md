@@ -17,9 +17,10 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - The file `_posts/2025-07-26-LOFC-CM-CH12-S3-Half-Season-Review-Winter-Transfer.md` has been migrated with the correct title, description metadata, and assets.
 
 ## Next Steps
-1.  **Migrate Configuration Directories:** Merge `clinerules` and `memory-bank` from `migration_temp` into the project root, prioritizing existing files.
-2.  **Review and Refine:** Address any conflicts or issues found in migrated project-specific files.
-3.  **Cleanup:** Delete the copied source repository once the user confirms satisfaction with the entire migration.
+1.  **Migrate Configuration Directories:** Merge `migration_temp/.clinerules/` into the project's root `.clinerules/`. Existing files will be prioritized to avoid overwriting current rules.
+2.  **Migrate Configuration Directories:** Merge `migration_temp/.memory_bank/` into the project's root `memory-bank/`, again prioritizing existing files.
+3.  **Review and Refine:** After the configuration directories are merged, I will review the `activeContext.md` and `progress.md` files to identify any new information or conflicts that may have arisen. I will also cross-reference with `content-guide.md` to ensure consistency with the blog's content structure and styling.
+4.  **Cleanup:** Once you confirm satisfaction with the entire migration process, the `migration_temp` directory will be deleted.
 
 ## Active Decisions and Considerations
 - **Blog Post Filenames:** Source files include chapter titles (e.g., `Chapter-02-Progress-&-Redemption.md`). The correct Jekyll format `YYYY-MM-DD-TITLE.md` must be strictly followed. The prefix `LOFC-CM-` should not be part of the filename itself but rather handled within the content or title if necessary. The corrected filename for Chapter 00 is `_posts/2025-03-06-LOFC-CM-CH00.md`.

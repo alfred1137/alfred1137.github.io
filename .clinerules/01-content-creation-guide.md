@@ -41,7 +41,7 @@ Author information is typically pulled from `_config.yml`. To override or add mu
     ```yaml
     # _data/authors.yml
     cotes:
-      name: Cotes Chung
+      name: Alfred1137
       twitter: cotes2020
       url: https://github.com/cotes2020/
     ```
