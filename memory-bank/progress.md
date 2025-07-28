@@ -48,19 +48,11 @@
 - `html-proofer` errors related to the image path and the external link have been resolved.
 - Chapter 01 migration is complete.
 - Chapter 02 migration is complete.
-
 - Chapter 03 migration is complete.
 
 - **Current State:** Chapter 00, Chapter 01, Chapter 02, and Chapter 03 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
 - **Lesson Learned:** Ensure all images within post content have descriptive `alt` attributes for accessibility and to prevent deployment errors, even if not explicitly detailed in all theme guides.
-
-- Chapter 03 migration is complete.
-
-- **Current State:** Chapter 00, Chapter 01, Chapter 02, and Chapter 03 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
-
-- **Current State:** Chapter 00, Chapter 01, and Chapter 02 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
-- **Lesson Learned:** Ensure all images within post content have descriptive `alt` attributes for accessibility and to prevent deployment errors, even if not explicitly detailed in all theme guides.
-- Ready to proceed with Step 2: Process Blog Posts (Iterative).
+- **Title Format Rule:** Colons (`:`) are not allowed in post titles. Use hyphens (`-`) or pipes (`|`) as separators instead.
 
 ## Known Issues
 - The original plan noted potential issues with direct access to the source repository. By creating a copy, we aim to mitigate these concerns. Any remaining issues will be addressed during the migration and review phases.

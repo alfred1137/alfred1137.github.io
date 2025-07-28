@@ -37,6 +37,7 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
     - Tags: `["Leyton Orient", "Career Mode", "LOFC-CM-2025"]`
 - **Standardized Title Format for Chapters:** For all blog posts migrated as part of this exercise, the `title` metadata should follow the convention: `LOFC-CM-CH<chapter_number> | <Original Chapter Title>`. `:` is strictly forbidden here.
 - **Standardized Description for Posts:** For all blog posts migrated as part of this exercise, the `description` metadata should be generated as a concise summary of the blog content. `:` is strictly forbidden here.
+- **Title Format Rule:** Colons (`:`) are not allowed in post titles. Use hyphens (`-`) or pipes (`|`) as separators instead.
 
 ## Learnings and Project Insights
 - **File Naming:** The correct Jekyll filename format `YYYY-MM-DD-TITLE.md` is crucial. The correct path for Chapter 00's image is `assets/img/LOFC-CM-CH00/Banner.png`, not `assets/img/LOFC-CM-00/Banner.png` as initially suggested by an `html-proofer` error.
