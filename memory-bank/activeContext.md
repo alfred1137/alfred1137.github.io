@@ -1,19 +1,24 @@
 # Active Context
 
 ## Current Work
-Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank.
+Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/Git/alfred1137.github.io`). The migration plan has been drafted, accepted, and documented in the memory bank. Chapter 00 has been successfully migrated, deployed, and all identified `html-proofer` errors have been resolved.
 
 ## Recent Changes
-- Updated understanding of how to access the source repository: terminal tools can be used in Act Mode.
-- Memory bank files (`activeContext.md`, `progress.md`) have been updated to reflect the latest plan and status.
-- Chapter 00 (Home Page) has been created as `_posts/2025-03-06-LOFC-CM-CH00.md`. (Corrected filename)
-- The banner image has been copied to `assets/img/LOFC-CM-00/Banner.png` and its path updated in the post.
+- The file `_posts/2025-03-06-LOFC-CM-CH00.md` has been confirmed as the correct file for Chapter 00.
+- The banner image has been correctly placed at `assets/img/LOFC-CM-CH00/Banner.png`.
+- The external link `www.leytonorient.com` has been corrected to include the `https://` protocol.
+- The `html-proofer` errors related to the image path and the external link have been resolved.
+- Memory bank files (`progress.md`, `activeContext.md`) have been updated to reflect the latest status and learnings.
 
 ## Next Steps
-1.  Process Blog Posts (Iterative): For each subsequent chapter markdown file, migrate content and assets, awaiting user acceptance for each chapter.
-2.  Migrate Configuration Directories: Merge `clinerules` and `memory-bank` from `migration_temp` into the project root, prioritizing existing files.
-3.  Review and Refine: Address any conflicts or issues found in migrated project-specific files.
-4.  Cleanup: Delete the copied source repository once the user confirms satisfaction with the entire migration.
+1.  **Process Blog Posts (Iterative):** For each subsequent chapter markdown file (e.g., `Chapter-01-Down-the-Brisbane-Road.md`) in `migration_temp/`:
+    *   Extract the chapter number and title.
+    *   Migrate the markdown content to `_posts/YYYY-MM-DD-LOFC-CM-CH<chapter_number>`.
+    *   Organize assets from `migration_temp/Resources/` under `assets/LOFC-CM-CH<chapter_number>/`.
+    *   *Await user acceptance for each chapter before proceeding to the next.*
+2.  **Migrate Configuration Directories:** Merge `clinerules` and `memory-bank` from `migration_temp` into the project root, prioritizing existing files.
+3.  **Review and Refine:** Address any conflicts or issues found in migrated project-specific files.
+4.  **Cleanup:** Delete the copied source repository once the user confirms satisfaction with the entire migration.
 
 ## Active Decisions and Considerations
 - **Blog Post Filenames:** Source files include chapter titles (e.g., `Chapter-02-Progress-&-Redemption.md`). The correct Jekyll format `YYYY-MM-DD-TITLE.md` must be strictly followed. The prefix `LOFC-CM-` should not be part of the filename itself but rather handled within the content or title if necessary. The corrected filename for Chapter 00 is `_posts/2025-03-06-LOFC-CM-CH00.md`.
@@ -27,8 +32,13 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - Preference for organized asset management per blog post.
 
 ## Learnings and Project Insights
-- User feedback on image paths is critical. External images from specific sources (like GitHub wiki) should be migrated to local assets, while others should remain external.
-- The `write_to_file` tool's output includes user edits, and the `final_file_content` should be used as the reference for subsequent operations.
-- Terminal tools can be leveraged in Act Mode to interact with the source repository.
-- Careful handling of `clinerules` and `memory-bank` is required to avoid conflicts.
-- **File Naming Convention:** Strict adherence to Jekyll's `YYYY-MM-DD-TITLE.md` format is crucial for blog post filenames. Custom prefixes like `LOFC-CM-` should not be part of the filename itself but handled within the content or title if necessary. The "Chapter 00" identifier should be clearly represented in the title.
+- **File Naming:** The correct Jekyll filename format `YYYY-MM-DD-TITLE.md` is crucial. The correct path for Chapter 00's image is `assets/img/LOFC-CM-CH00/Banner.png`, not `assets/img/LOFC-CM-00/Banner.png` as initially suggested by an `html-proofer` error.
+- **External Link Formatting:** `html-proofer` requires external links to include a protocol (e.g., `https://`) to be correctly recognized. The link `www.leytonorient.com` was corrected to `https://www.leytonorient.com`.
+- **Tool Limitations and User Collaboration:** When direct file modification is denied, the process involves:
+    1.  Identifying the issue and required changes.
+    2.  Reading the relevant file content.
+    3.  Clarifying discrepancies with the user (e.g., file paths).
+    4.  Providing the user with corrected content or instructions for them to apply.
+    5.  Asking the user to confirm the changes and re-run checks.
+- **Current State:** Chapter 00 is migrated, deployed, and all identified `html-proofer` errors are resolved.
+- **Next Steps:** Proceed with migrating subsequent blog posts (Step 2 of the plan).

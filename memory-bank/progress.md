@@ -19,6 +19,19 @@
         - For each subsequent chapter markdown file (e.g., `Chapter-01-Down-the-Brisbane-Road.md`) in `migration_temp/`:
             - Extract the chapter number (e.g., "01" from "Chapter-01-").
             - Extract the chapter title (e.g., "Down-the-Brisbane-Road" from "Chapter-01-Down-the-Brisbane-Road.md").
+            - Use the following to date the chapters being migrated:
+                - CH01: 2025-03-17 (YYYY-MM-DD)
+                - CH02: 2025-03-18
+                - CH03: 2025-03-22
+                - CH04: 2025-03-23
+                - CH05: 2025-04-03
+                - CH06: 2025-04-07
+                - CH07: 2025-04-08
+                - CH08: 2025-04-14
+                - CH09: 2025-06-13
+                - CH10: 2025-06-18
+                - CH11: 2025-06-23
+                - CH12: 2025-07-26
             - Migrate the markdown content to `_posts/YYYY-MM-DD-LOFC-CM-CH<chapter_number>`.
             - Assets from `migration_temp/Resources/` will be organized under `assets/LOFC-CM-CH<chapter_number>/`.
             - *Await user acceptance for each chapter before proceeding to the next.*
@@ -30,11 +43,11 @@
 - **Cleanup:** Delete the copied source repository once the user confirms satisfaction with the entire migration.
 
 ## Current Status
-- Chapter 00 (Home Page) has been created as `_posts/2025-03-06-LOFC-CM-CH00.md`. (Corrected filename)
-- The banner image has been copied to `assets/img/LOFC-CM-CH00/Banner.png` and its path updated in the post.
-- User feedback regarding image handling (migrating specific external assets while keeping others external) has been incorporated.
+- Chapter 00 migration is complete and successfully deployed.
+- The file `_posts/2025-03-06-LOFC-CM-CH00.md` is correctly named and contains the corrected content, including the external link to `https://www.leytonorient.com`.
+- The banner image has been correctly placed at `assets/img/LOFC-CM-CH00/Banner.png`.
+- `html-proofer` errors related to the image path and the external link have been resolved.
 - Ready to proceed with Step 2: Process Blog Posts (Iterative).
 
 ## Known Issues
 - The original plan noted potential issues with direct access to the source repository. By creating a copy, we aim to mitigate these concerns. Any remaining issues will be addressed during the migration and review phases.
-- **File Naming Convention:** A mistake was made in the initial filename for Chapter 00. The correct Jekyll format `YYYY-MM-DD-TITLE.md` must be strictly followed. The prefix `LOFC-CM-` should not be part of the filename itself but rather handled within the content or title if necessary. The corrected filename for Chapter 00 is `_posts/2025-03-06-LOFC-CM-CH00.md`.
