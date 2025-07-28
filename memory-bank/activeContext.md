@@ -50,4 +50,5 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
     5.  Asking the user to confirm the changes and re-run checks.
 - **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, Chapter 05, Chapter 06, Chapter 07, Chapter 08, Chapter 09, Chapter 10, Chapter 11, and Chapter 12 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
 - **Lesson Learned:** Ensure all images within post content have descriptive `alt` attributes for accessibility and to prevent deployment errors, even if not explicitly detailed in all theme guides.
+- **Table of Contents Maintenance:** The Table of Contents in `_posts/2025-03-06-LOFC-CM-CH00.md` must be manually updated whenever a new LOFC-CM blog post is added to ensure all chapters are accessible.
 - **Next Steps:** Proceed with migrating subsequent blog posts (Step 2 of the plan), starting with Chapter 12.

@@ -62,3 +62,12 @@ This section provides instructions on how to format names consistently in LOFC-C
 *   **Use Active Voice:** Use active voice to make the writing more direct and engaging.
 *   **Keep Paragraphs Short:** Keep paragraphs short and focused on a single idea.
 *   **Proofread Carefully:** Proofread all content carefully for errors in grammar, spelling, and punctuation.
+
+## Navigation
+
+*   **Return to Chapter 00:** For all blog posts (except `LOFC-CM-CH00`), include a link at the very bottom to help readers go back to the main introduction. This link should be centered.
+    ```markdown
+    [Return to Chapter 00: Leyton Orient Manager Career in EA FC 2025 (Mar 2025)](/LOFC-CM-CH00/)
+    {: .align-center }
+    ```
+    *(Note: The `.align-center` class is a common convention for centering in Jekyll themes. If it doesn't work, further investigation into the theme's CSS will be needed.)*
