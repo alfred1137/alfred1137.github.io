@@ -7,9 +7,8 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 - The file `_posts/2025-03-06-LOFC-CM-CH00.md` has been confirmed as the correct file for Chapter 00.
 - The banner image has been correctly placed at `assets/img/LOFC-CM-CH00/Banner.png`.
 - The external link `www.leytonorient.com` has been corrected to include the `https://` protocol.
-- The `html-proofer` errors related to the image path and the external link have been resolved.
-- The file `_posts/2025-03-17-LOFC-CM-CH01.md` has been migrated with the correct title and description metadata.
-- The file `_posts/2025-03-18-LOFC-CM-CH02.md` has been migrated with the correct title, description metadata, and assets.
+
+- The file `_posts/2025-04-03-LOFC-CM-CH05.md` has been migrated with the correct title, description metadata, and assets.
 - Memory bank files (`progress.md`, `activeContext.md`) have been updated to reflect the latest status and learnings.
 
 ## Next Steps
@@ -50,5 +49,5 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
     5.  Asking the user to confirm the changes and re-run checks.
 - **Current State:** Chapter 00, Chapter 01, and Chapter 02 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
 - **Lesson Learned:** Ensure all images within post content have descriptive `alt` attributes for accessibility and to prevent deployment errors, even if not explicitly detailed in all theme guides.
-- **Next Steps:** Proceed with migrating subsequent blog posts (Step 2 of the plan), starting with Chapter 05.
-- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, and Chapter 04 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
+- **Next Steps:** Proceed with migrating subsequent blog posts (Step 2 of the plan), starting with Chapter 06.
+- **Current State:** Chapter 00, Chapter 01, Chapter 02, Chapter 03, Chapter 04, and Chapter 05 are migrated, deployed, and all identified `html-proofer` errors are resolved. The fix for missing image alt attributes has been verified through successful redeployment.
