@@ -19,8 +19,8 @@
         - For each subsequent chapter markdown file (e.g., `Chapter-01-Down-the-Brisbane-Road.md`) in `migration_temp/`:
             - Extract the chapter number (e.g., "01" from "Chapter-01-").
             - Extract the chapter title (e.g., "Down-the-Brisbane-Road" from "Chapter-01-Down-the-Brisbane-Road.md").
-            - Migrate the markdown content to `_posts/LOFC-CM-<chapter_number>-<chapter_title>`.
-            - Assets from `migration_temp/Resources/` will be organized under `assets/LOFC-CM-<chapter_number>/`.
+            - Migrate the markdown content to `_posts/YYYY-MM-DD-LOFC-CM-CH<chapter_number>`.
+            - Assets from `migration_temp/Resources/` will be organized under `assets/LOFC-CM-CH<chapter_number>/`.
             - *Await user acceptance for each chapter before proceeding to the next.*
     - **Step 3: Migrate Configuration Directories:**
         - The contents of `migration_temp/.clinerules/` will be merged into the project's root `.clinerules/`, prioritizing existing files to avoid overwriting current rules.
@@ -30,9 +30,11 @@
 - **Cleanup:** Delete the copied source repository once the user confirms satisfaction with the entire migration.
 
 ## Current Status
-- Planning phase is complete.
-- Memory bank has been updated with the finalized step-by-step migration plan, including the approach for handling source data, special files, and configuration directories.
-- Ready to proceed with the execution phase, starting with Chapter 00.
+- Chapter 00 (Home Page) has been created as `_posts/2025-03-06-LOFC-CM-CH00.md`. (Corrected filename)
+- The banner image has been copied to `assets/img/LOFC-CM-CH00/Banner.png` and its path updated in the post.
+- User feedback regarding image handling (migrating specific external assets while keeping others external) has been incorporated.
+- Ready to proceed with Step 2: Process Blog Posts (Iterative).
 
 ## Known Issues
 - The original plan noted potential issues with direct access to the source repository. By creating a copy, we aim to mitigate these concerns. Any remaining issues will be addressed during the migration and review phases.
+- **File Naming Convention:** A mistake was made in the initial filename for Chapter 00. The correct Jekyll format `YYYY-MM-DD-TITLE.md` must be strictly followed. The prefix `LOFC-CM-` should not be part of the filename itself but rather handled within the content or title if necessary. The corrected filename for Chapter 00 is `_posts/2025-03-06-LOFC-CM-CH00.md`.
