@@ -47,6 +47,7 @@
 - The file `_posts/2025-03-06-LOFC-CM-CH00.md` is correctly named and contains the corrected content, including the external link to `https://www.leytonorient.com`.
 - The banner image has been correctly placed at `assets/img/LOFC-CM-CH00/Banner.png`.
 - `html-proofer` errors related to the image path and the external link have been resolved.
+- Chapter 01 migration is complete.
 - Ready to proceed with Step 2: Process Blog Posts (Iterative).
 
 ## Known Issues

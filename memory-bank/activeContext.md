@@ -30,6 +30,9 @@ Migrating blog posts from `D:\Git\LOFC-CM-202503.wiki` to the current blog (`d:/
 ## Important Patterns and Preferences
 - Adherence to Jekyll blog structure (`_posts/`, `assets/`).
 - Preference for organized asset management per blog post.
+- **Standardized Categories and Tags for Migrated Posts:** For all posts migrated as part of this exercise, the following categories and tags will be used:
+    - Categories: `["Gaming", "EA FC 2025", "LOFC-CM-2025"]`
+    - Tags: `["Leyton Orient", "Career Mode", "LOFC-CM-2025"]`
 
 ## Learnings and Project Insights
 - **File Naming:** The correct Jekyll filename format `YYYY-MM-DD-TITLE.md` is crucial. The correct path for Chapter 00's image is `assets/img/LOFC-CM-CH00/Banner.png`, not `assets/img/LOFC-CM-00/Banner.png` as initially suggested by an `html-proofer` error.
