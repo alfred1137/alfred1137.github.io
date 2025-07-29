@@ -57,6 +57,10 @@ This section provides instructions on how to format names consistently in LOFC-C
 
 -   Use italics for individual names, e.g., `*Dele Alli*`.
 
+### Exceptions
+
+- the above rules does not apply to names being mentioned in a table.
+
 ## Best Practices
 
 *   **Use Active Voice:** Use active voice to make the writing more direct and engaging.
