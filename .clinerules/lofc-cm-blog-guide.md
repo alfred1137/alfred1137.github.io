@@ -39,6 +39,22 @@ description: A concise summary of the blog content. # Colons are strictly forbid
 *   **Image Paths:** All image attachments MUST use paths relative to the `assets/img/` directory.
     *   **Do NOT** use local system paths like `D:\Git\LOFC-CM-2025\Docs\CH05\01.png`.
 
+### 1. Media Subpath
+All LOFC-CM blog posts MUST include `media_subpath: LOFC-CM/` in their front matter. This sets the base path for images within the post.
+
+```yaml
+---
+media_subpath: LOFC-CM/
+---
+```
+
+### 2. Image References within Posts
+When referencing images within the post content, the path should be relative to the specific chapter's directory under `assets/img/LOFC-CM/`. For example, for Chapter 00, images should be placed in `assets/img/LOFC-CM/CH00/` and referenced as `CH00/image_name.png`.
+
+```markdown
+![Image alt text](CH00/Banner.png)
+```
+
 ## Name Formatting
 
 This section provides instructions on how to format names consistently in LOFC-CM blog articles.
