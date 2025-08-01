@@ -40,11 +40,11 @@ description: A concise summary of the blog content. # Colons are strictly forbid
     *   **Do NOT** use local system paths like `D:\Git\LOFC-CM-2025\Docs\CH05\01.png`.
 
 ### 1. Media Subpath
-All LOFC-CM blog posts MUST include `media_subpath: LOFC-CM/` in their front matter. This sets the base path for images within the post.
+All LOFC-CM blog posts MUST include `media_subpath: assets/img/LOFC-CM/` in their front matter. This sets the base path for images within the post.
 
 ```yaml
 ---
-media_subpath: LOFC-CM/
+media_subpath: assets/img/LOFC-CM/
 ---
 ```
 
